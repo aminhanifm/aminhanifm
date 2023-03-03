@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amin, an experienced game developer since 2019</div>  
+### <div align="center">I'm Amin, an experienced game developer since 2019 👋</div>  
   
 
 - 🔭 I’m the founder of [uniXcorp](https://github.com/unixcorp)  
