@@ -15,7 +15,7 @@
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1kDZhlVMcB2IzCcUNYe7u0p7G2jSBSNr5/view?usp=sharing)  
 
 
-- 📄 Check out my portfolio [here](https://drive.google.com/file/d/1p6XxhYaYNb9DX_xAOj7tDS0v7H8kqT3_/view?usp=sharing)
+- 📄 Check out my portfolio [here](https://drive.google.com/file/d/11rOqsQ7Gw_hAZwk3hn0sMY0dnjzp79_Q/view?usp=share_link)
   
 
 - ⚡ Fun fact: I can speak programming language  
