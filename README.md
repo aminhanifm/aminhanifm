@@ -6,19 +6,16 @@
 ### <div align="center">I'm Amin, an experienced game developer since 2019 👋</div>  
   
 
-- 🔭 I’m the founder of [uniXcorp](https://github.com/unixcorp)  
+- 🔭 Game Programmer at [uniXcorp](https://github.com/unixcorp)  
   
 
--  💻 I’m also a programmer  
+-  💻 Game Programmer at GOYA Technologies Pte Ltd   
   
 
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1kDZhlVMcB2IzCcUNYe7u0p7G2jSBSNr5/view?usp=sharing)  
 
 
 - 📄 Check out my portfolio [here](https://drive.google.com/file/d/11rOqsQ7Gw_hAZwk3hn0sMY0dnjzp79_Q/view?usp=share_link)
-  
-
-- ⚡ Fun fact: I can speak programming language  
   
 
 <br/>  
