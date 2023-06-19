@@ -9,7 +9,7 @@
 - 🔭 Game Programmer at [uniXcorp](https://github.com/unixcorp)  
   
 
--  💻 Game Programmer at GOYA Technologies Pte Ltd   
+-  💻 Unity Developer at GOYA Technologies Pte Ltd   
   
 
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1kDZhlVMcB2IzCcUNYe7u0p7G2jSBSNr5/view?usp=sharing)  
