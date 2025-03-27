@@ -63,11 +63,6 @@
 
 
 ----
-<div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Thanks!)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aminhanifm&&style=flat-square" align="center" />
