@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amin, an experienced game developer since 2019 👋</div>  
   
 
-- 🔭 Game Programmer at [uniXcorp](https://github.com/unixcorp)  
+- 🔭 Game Programmer at [uniXcorp](https://github.com/unixcorp) and CV Maleo Media Kreatif
   
 
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1kDZhlVMcB2IzCcUNYe7u0p7G2jSBSNr5/view?usp=sharing)  
