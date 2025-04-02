@@ -9,10 +9,10 @@
 - 🔭 Game Programmer at [uniXcorp](https://github.com/unixcorp) and CV Maleo Media Kreatif
   
 
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1kDZhlVMcB2IzCcUNYe7u0p7G2jSBSNr5/view?usp=sharing)  
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1te60l7zApV1c2GNUoy73K0286dXVOh1v/view?usp=sharing)  
 
 
-- 📄 Check out my portfolio [here](https://drive.google.com/file/d/11rOqsQ7Gw_hAZwk3hn0sMY0dnjzp79_Q/view?usp=share_link)
+- 📄 Check out my portfolio [here](https://drive.google.com/file/d/1taN__P5q1-VwKPUs6ALLn9vmr525JMI-/view?usp=sharing) or [here](aminhanifm.github.io)
   
 
 <br/>  
