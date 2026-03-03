@@ -12,7 +12,7 @@
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1uIZyJgbRRTfJLeW0xTK0Di3tW8Uyqf6M/view?usp=share_link)  
 
 
-- 📄 Check out my portfolio [here](https://drive.google.com/file/d/1uIZyJgbRRTfJLeW0xTK0Di3tW8Uyqf6M/view?usp=share_link) or [here](https://aminhanifm.github.io/)
+- 📄 Check out my portfolio [here](https://drive.google.com/file/d/1Ee-HIA7-lxgT5C2uZGUudb74Z2k5_173/view?usp=sharing) or [here](https://aminhanifm.github.io/)
   
 
 <br/>  
