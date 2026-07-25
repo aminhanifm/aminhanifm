@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://aminhanifm.github.io/">
-    <img src="https://aminhanifm.github.io/og-image.png?v=20260703-3" alt="Amin Hanif game developer portfolio preview" width="100%" />
+    <img src="https://aminhanifm.github.io/og-image.png?v=20260719-1" alt="Amin Hanif game developer portfolio preview" width="100%" />
   </a>
 </div>
 
@@ -23,9 +23,6 @@ I currently work as an Initiative Lead / Contract Game Programmer at Freemotion 
   </a>
   <a href="https://aminhanifm.github.io/docs/Amin-Hanif-Portfolio.pdf">
     <img src="https://img.shields.io/badge/Portfolio-PDF-1d4ed8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio PDF" />
-  </a>
-  <a href="https://github.com/aminhanifm/aminhanifm.github.io">
-    <img src="https://img.shields.io/badge/Portfolio_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
   </a>
 </p>
 
