@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://aminhanifm.github.io/">
-    <img src="https://aminhanifm.github.io/og-image.png?v=20260719-1" alt="Amin Hanif game developer portfolio preview" width="100%" />
+    <img src="https://aminhanifm.github.io/og-image.png?v=20260826-1" alt="Amin Hanif game portfolio preview" width="100%" />
   </a>
 </div>
 
